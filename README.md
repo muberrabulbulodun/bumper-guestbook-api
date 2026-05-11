@@ -29,28 +29,6 @@ Simple GuestBook backend application developed with Django and Django REST Frame
 
 ---
 
-# 📂 Project Structure
-
-- `models.py`
-  - Database models and relationships
-
-- `serializers.py`
-  - Request and response validation
-
-- `views.py`
-  - API operations and business logic
-
-- `pagination.py`
-  - Custom pagination configuration
-
-- `tests.py`
-  - Automated integration tests
-
-- `admin.py`
-  - Django admin panel configuration
-
----
-
 # ⚙️ Installation
 
 ## 1. Clone repository
@@ -169,9 +147,25 @@ Current coverage result:
 
 # 🎥 Demo Video
 
-Demo Link:
+The following demo video includes:
 
-https://jam.dev/c/17fa0cc6-ad60-46d4-bbfa-469471bc2926
+🔗 Demo Link: https://jam.dev/c/17fa0cc6-ad60-46d4-bbfa-469471bc2926
+
+---
+
+# 🧪 Unit & E2E Test
+
+Integration and end-to-end test results:
+
+🔗 Test Screenshot: https://prnt.sc/LakkMH26qjBg
+
+---
+
+# 📊 Coverage
+
+Coverage result:
+
+🔗 Coverage Screenshot: https://prnt.sc/5rAbD1uVlzpS
 
 ---
 

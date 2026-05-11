@@ -148,7 +148,7 @@ coverage report
 Current coverage result:
 
 ```text
-98%
+99%
 ```
 
 ---

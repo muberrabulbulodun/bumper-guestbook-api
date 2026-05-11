@@ -1,8 +1,16 @@
 # 📘 GuestBook API
 
-Simple GuestBook backend application developed with Django and Django REST Framework.
+This project was developed as part of a backend task assignment provided by Bumper using Django and Django REST Framework.
 
 ---
+
+# 📄 Documentation
+
+The detailed assignment documentation is also included in the project files.
+
+You can additionally access it from the link below:
+
+🔗 https://drive.google.com/file/d/1tBvvxLIFiVh7jil0tWe3lG5NnXUOYwwd/view?usp=sharing
 
 # 🚀 Features
 
